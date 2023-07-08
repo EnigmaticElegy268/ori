@@ -1,0 +1,3 @@
+for p in programmers:
+    if "say" in p:
+        print(p)
